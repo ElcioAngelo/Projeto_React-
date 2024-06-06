@@ -34,6 +34,16 @@
   font-weight: lighter;
 }
 
+.secondParagraph{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 800;
+  width: 300px;
+  color: rgb(98, 98, 98);
+  font-weight: lighter;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
 .Blue_button {
   border-style: none;
   border-radius: 20px;
@@ -44,6 +54,18 @@
   font-family: sans-serif;
   justify-content: center;
   font-weight: 600
+}
+
+.Blue_button2 {
+  border-style: none;
+  border-radius: 20px;
+  background-color: rgb(0, 0, 172);
+  color: white;
+  width: 250px;
+  height: 44px;
+  font-family: sans-serif;
+  justify-content: center;
+  font-weight: 600;
 }
 
 .embaixo {
@@ -80,5 +102,12 @@
 .container{
   border-style: 1px solid black;
   padding: 2px 16px;
+}
+
+.sevenine {
+  font-size: 30px;
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: bold
 }
 
